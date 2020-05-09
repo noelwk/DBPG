@@ -1,2 +1,3 @@
-# DBPG
-Database Practical Guide. Repository with examples about Database programming (SQL) using PostgreSQL 9.5. The main objective is provide a guide for beginners in databases topics.  "To teach is to learn twice" Joseph Joubert
+# Database Practical Guide
+
+This is an attempt to write about my experience developing SQL code. I am using PostgreSQL as DBMS and SQL Standard.
